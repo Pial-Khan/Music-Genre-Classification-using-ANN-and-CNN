@@ -1,2 +1,3 @@
-# Md. Rafsunjani Khan
-# 2016331057
+# Project: Music Genre Classification
+# Name: Md. Rafsunjani Khan
+# Reg No. 2016331057
